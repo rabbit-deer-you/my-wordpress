@@ -1,3 +1,3 @@
 # my-wordpress
-## user:root
-## password:mengxiangxin
+* user:root
+* password:mengxiangxin
